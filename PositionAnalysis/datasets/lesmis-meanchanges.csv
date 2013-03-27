@@ -1,0 +1,7 @@
+degree, Cluster[1], THRESHOLD
+1, 11.402597402597403, 0.1
+2, 0.0, 0.1
+
+neighbourtypes, Cluster[1], THRESHOLD
+1, 0.0, 0.1
+
